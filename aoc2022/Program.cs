@@ -9,7 +9,7 @@ namespace aoc2022
         
         public static void Main(string[] args)
         {
-            new Day9().CalculatePart2(GetInput("day9_input"));
+            new Day10().CalculatePart2(GetInput("day10_input"));
         }
 
         private static string[] GetInput(string fileName)
